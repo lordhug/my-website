@@ -1,3 +1,3 @@
 function sayHello() {
-  alert("Hello from JavaScript!");
+  alert("Hello, I've made this with javascript for my homework!");
 }
